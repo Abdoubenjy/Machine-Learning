@@ -1,4 +1,4 @@
-Part 1: Data Preparation and Model Training
+Part 1: ML Flowers --> Data Preparation and Model Training
 
 This section focuses on preparing the dataset and implementing a Linear Regression model to make predictions. The key tasks include:
 
@@ -20,7 +20,7 @@ This section focuses on preparing the dataset and implementing a Linear Regressi
 5- Custom Prediction Function:
 - Implementing a custom function to predict outputs using the learned weights and bias for validation.
 
-Part 2: Impact Analysis of Dataset Size and Missing Values
+Part 2: ML California --> Impact Analysis of Dataset Size and Missing Values
 
 This section explores the effect of dataset characteristics on the performance of the regression model. The primary analyses include:
 
